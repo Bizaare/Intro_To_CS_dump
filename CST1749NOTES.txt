@@ -1,0 +1,89 @@
+IDE - Integrated Development Environment
+
+Binary -- 0 & 1 means no voltage, or there is voltage
+
+Flash memory --       no charge,  or there is  charge
+
+Binary - means to have two states
+
+Bit - can only be two states, a 0 or a 1
+
+8 bits - a group of 8 bits is a byte
+Example - 01001101
+
+4 bits - a group of 4 bits is a nibble or nybble
+
+word - equivelent to 2 bytes, or 4 bytes, or 8 bytes, however depends on your OS
+on a 64 bit OS, the word length is 8 bytes
+
+Hex - Hexadecimal - base 16
+Decimal - base 10
+Binary - base 2 (0 and 1 refer to above statements)
+0 represents an absent of something
+
+8421
+binary Hex Decimal
+0000
+0001
+0001
+0011
+0100
+0101
+0110
+0111
+1000
+1001
+1010 _ THIS IS TEN! IN HEX IT IS KNOWN AS A
+1011 _ B / 11
+1100 _ C / 12
+1101 _ D / 13
+1110 _ E / 14
+1111 _ F / 15
+1 0000 _ 10 / 16
+
+
+0110 1110 1111 0010 0001 1000 1010 1101 - 6 E F 2 1 8 A B  (6EF218AD Hex) OR $6EF218AD OR #6EF218AD OR 0x6EF218AD
+
+24 bits of true color
+8 bits of Red, 8 bits of Green, 8 bits of Blue (determing the RGB colors)
+
+#00 - #FF, #00 - #FF, #00 - #FF
+
+#FF0000 - Bright red
+#00FF00 - Bright green
+#0000FF - Bright blue
+#FFFFFF - White
+#000000 - Black
+
+IP 192.168.34.197 - #C0A8225D
+
+1100 0000 1010 1000 0010 0010 0101 1101
+
+128 64 32 16 8 4 2 1
+
+
+1111 1111 - #FF hex - 255 decimal
+
+148 64 32 16 8 4 2 1 . 0.5 0.25 0.125 0.0625
+
+5.25 decimal - 0101 . 0100
+
+0.8 decimal = 0 . 11001.... (goes on almost infinitely)
+
+16 bits signed
+0111 1111 1111 1111 (largest number possible with 16 bits signed (32,767 decimal))
+
+16 bits unsigned
+1111 1111 1111 1111 (largest number possible unsigned (65,535))
+
+ASCII - American Standard Code for Information Interchange (how numbers and letters are stored in a computer)
+
+A - 65 decimal - #41 hex (0x41)
+a - 97 decimal - #61 hex (0x61)
+
+0 - 48 decimal - #30 hex (0x30)
+
+ABC abc 123
+ 			- These two lines show how data is stored inside the file.
+4142430A   6162630A  313233 
+
